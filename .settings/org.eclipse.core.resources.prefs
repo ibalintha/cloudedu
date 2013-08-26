@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//cloudedu/templates/base.html=UTF-8
+encoding//cloudedu/templates/index.html=UTF-8
+encoding//cloudedu/templates/menu.html=UTF-8
+encoding//cloudedu/views.py=utf-8
+encoding//essential/templates/essential/datadict_form.html=UTF-8
+encoding//essential/templates/essential/datadict_list.html=UTF-8
+encoding//essential/urls.py=utf-8
+encoding//system/templates/admin/login.html=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
